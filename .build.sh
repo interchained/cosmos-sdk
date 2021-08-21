@@ -11,7 +11,7 @@ set -ue
 # - DEBUG
 
 # Source builder's functions library
-. /usr/local/share/tendermint/buildlib.sh
+. /usr/local/share/genesismint/buildlib.sh
 
 # These variables are now available
 # - BASEDIR
