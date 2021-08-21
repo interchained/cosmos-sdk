@@ -34,7 +34,7 @@ require (
 	github.com/prometheus/client_golang v1.11.0
 	github.com/prometheus/common v0.29.0
 	github.com/rakyll/statik v0.1.7
-	github.com/interchained/cosmos-proto v0.3.1
+	github.com/interchained/cosmos-proto v0.3.2 // bump
 	github.com/rs/zerolog v1.23.0
 	github.com/spf13/cast v1.3.1
 	github.com/spf13/cobra v1.1.3
@@ -43,9 +43,9 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/interchained/btcd v0.1.1 
 	github.com/interchained/crypto v0.0.0-20191022145703-50d29ede1e15
-	github.com/interchained/go-amino v0.16.0
-	github.com/interchained/tendermint v0.34.13 // bump
-	github.com/interchained/gm-db v0.6.5 // bump
+	github.com/interchained/go-amino v0.16.1 // bump
+	github.com/interchained/genesismint v0.34.13 // bump
+	github.com/interchained/gm-db v0.6.6 // bump
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
 	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c
 	google.golang.org/grpc v1.38.0
